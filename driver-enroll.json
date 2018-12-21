@@ -1,0 +1,325 @@
+[
+	{
+		"id": 1,
+		"status": "pending",
+		"firstName": "Abu1",
+		"lastName": "Mujawar 1",
+		"address": {
+			"line1": "Roswell Road 1",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0001",
+		"email": "abu.mujawar1@email.com",
+		"ssn": "*** ** 1101",
+		"dob": "2017-11-01"
+	},
+	{
+		"id": 2,
+		"status": "inactive",
+		"firstName": "Abu2",
+		"lastName": "Mujawar 2",
+		"address": {
+			"line1": "Roswell Road 2",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0002",
+		"email": "abu.mujawar2@email.com",
+		"ssn": "*** ** 1102",
+		"dob": "2017-11-02"
+	},
+	{
+		"id": 3,
+		"status": "active",
+		"firstName": "Abu3",
+		"lastName": "Mujawar 3",
+		"address": {
+			"line1": "Roswell Road 3",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0003",
+		"email": "abu.mujawar3@email.com",
+		"ssn": "*** ** 1103",
+		"dob": "2017-11-03"
+	},
+	{
+		"id": 4,
+		"status": "pending",
+		"firstName": "Abu4",
+		"lastName": "Mujawar 4",
+		"address": {
+			"line1": "Roswell Road 4",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0004",
+		"email": "abu.mujawar4@email.com",
+		"ssn": "*** ** 1104",
+		"dob": "2017-11-04"
+	},
+	{
+		"id": 5,
+		"status": "pending",
+		"firstName": "Abu5",
+		"lastName": "Mujawar 5",
+		"address": {
+			"line1": "Roswell Road",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0005",
+		"email": "abu.mujawar5@email.com",
+		"ssn": "*** ** 1105",
+		"dob": "2017-11-05"
+	},
+	{
+		"id": 6,
+		"status": "inactive",
+		"firstName": "Abu",
+		"lastName": "Mujawar 6",
+		"address": {
+			"line1": "Roswell Road",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0006",
+		"email": "abu.mujawar6@email.com",
+		"ssn": "*** ** 1106",
+		"dob": "2017-11-06"
+	},
+	{
+		"id": 7,
+		"status": "active",
+		"firstName": "Abu",
+		"lastName": "Mujawar 7",
+		"address": {
+			"line1": "Roswell Road",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0007",
+		"email": "abu.mujawar7@email.com",
+		"ssn": "*** ** 1107",
+		"dob": "2017-11-07"
+	},
+	{
+		"id": 8,
+		"status": "inactive",
+		"firstName": "Abu",
+		"lastName": "Mujawar 8",
+		"address": {
+			"line1": "Roswell Road",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0008",
+		"email": "abu.mujawar8@email.com",
+		"ssn": "*** ** 1108",
+		"dob": "2017-11-08"
+	},
+	{
+		"id": 9,
+		"status": "pending",
+		"firstName": "Abu1",
+		"lastName": "Mujawar 9",
+		"address": {
+			"line1": "Roswell Road",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0009",
+		"email": "abu.mujawar9@email.com",
+		"ssn": "*** ** 1109",
+		"dob": "2017-11-09"
+	},
+	{
+		"id": 10,
+		"status": "inactive",
+		"firstName": "Abu",
+		"lastName": "Mujawar 10",
+		"address": {
+			"line1": "Roswell Road",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0010",
+		"email": "abu.mujawar10@email.com",
+		"ssn": "*** ** 1110",
+		"dob": "2017-11-10"
+	},
+	{
+		"id": 11,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 11",
+		"address": {
+			"line1": "Roswell Road 11",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0011",
+		"email": "abu.mujawar11@email.com",
+		"ssn": "*** ** 1111",
+		"dob": "2017-11-1"
+	},
+	{
+		"id": 12,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 12",
+		"address": {
+			"line1": "Roswell Road 12",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0012",
+		"email": "abu.mujawar12@email.com",
+		"ssn": "*** ** 1112",
+		"dob": "2017-11-12"
+	},
+	{
+		"id": 13,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 13",
+		"address": {
+			"line1": "Roswell Road 13",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0013",
+		"email": "abu.mujawar13@email.com",
+		"ssn": "*** ** 1113",
+		"dob": "2017-11-13"
+	},
+	{
+		"id": 14,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 14",
+		"address": {
+			"line1": "Roswell Road 14",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0014",
+		"email": "abu.mujawar14@email.com",
+		"ssn": "*** ** 1114",
+		"dob": "2017-11-14"
+	},
+	{
+		"id": 15,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 15",
+		"address": {
+			"line1": "Roswell Road 15",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0015",
+		"email": "abu.mujawar15@email.com",
+		"ssn": "*** ** 1115",
+		"dob": "2017-11-15"
+	},
+	{
+		"id": 16,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 16",
+		"address": {
+			"line1": "Roswell Road 16",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0016",
+		"email": "abu.mujawar16@email.com",
+		"ssn": "*** ** 1116",
+		"dob": "2017-11-16"
+	},
+	{
+		"id": 17,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 17",
+		"address": {
+			"line1": "Roswell Road 17",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0017",
+		"email": "abu.mujawar17@email.com",
+		"ssn": "*** ** 1117",
+		"dob": "2017-11-17"
+	},
+	{
+		"id": 18,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 18",
+		"address": {
+			"line1": "Roswell Road 18",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0018",
+		"email": "abu.mujawar18@email.com",
+		"ssn": "*** ** 1118",
+		"dob": "2017-11-18"
+	},
+	{
+		"id": 19,
+		"status": "pending",
+		"firstName": "Abu",
+		"lastName": "Mujawar 19",
+		"address": {
+			"line1": "Roswell Road 19",
+			"line2": "Apt #123",
+			"city": "Marietta",
+			"state": "GA",
+			"postalCode": "12345"
+		},
+		"phone": "000-000-0019",
+		"email": "abu.mujawar19@email.com",
+		"ssn": "*** ** 1119",
+		"dob": "2017-11-19"
+	}
+]
